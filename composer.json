@@ -1,5 +1,5 @@
 {
-    "name": "dalefrancum/rt-php-lib",
+    "name": "dersam/rt-php-lib",
     "type": "library",
     "description": "Wrapper class for Request Tracker REST API",
     "version": "1.0.3",
